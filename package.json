@@ -22,7 +22,7 @@
     "@supabase/auth-ui-shared": "^0.1.8",
     "@supabase/supabase-js": "^2.38.0",
     "ai": "^2.2.37",
-    "axios": "^1.6.0",
+    "axios": "^1.16.0",
     "clsx": "^2.0.0",
     "date-fns": "^2.30.0",
     "framer-motion": "^10.16.0",
